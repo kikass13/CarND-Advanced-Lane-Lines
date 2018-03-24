@@ -20,15 +20,15 @@ The goals / steps of this project are the following:
 
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
-[//]: #	"Image References"
-[image1]: ./examples/undistortedImage.png	"Undistorted"
-[image2]: ./examples/undistorted_test_image.png	"Real Images"
-[image3]: ./examples/binary_image.png	"Binary Images"
-[image4]: ./examples/binary_warping.png	"Binary Warped Images"
-[image5]: ./examples/lane_fitting.png	"Lane Fitting Images"
-[image6]: ./examples/lineArea1.png	"Output Area1"
-[image7]: ./examples/lineArea2.png	"Output Area2"
-[video1]: ./project_video.mp4	"Video"
+	//]: #	"Image References"
+	image1]: ./examples/undistortedImage.png	"Undistorted"
+	image2]: ./examples/undistorted_test_image.png	"Real Images"
+	image3]: ./examples/binary_image.png	"Binary Images"
+	image4]: ./examples/binary_warping.png	"Binary Warped Images"
+	image5]: ./examples/lane_fitting.png	"Lane Fitting Images"
+	image6]: ./examples/lineArea1.png	"Output Area1"
+	image7]: ./examples/lineArea2.png	"Output Area2"
+	video1]: ./project_video.mp4	"Video"
 []: 
 
 ### Camera Calibration
@@ -119,7 +119,7 @@ i calculated the center-offset between the car and the lanes in the centerOffset
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video_output.mp4])
+Here's a [link to my video result](./project_video_output.mp4)
 
 ---
 
